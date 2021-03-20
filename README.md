@@ -1,4 +1,4 @@
-# React-Google-Sheets
+# TIL-react-to-google-sheets
 
 **This is a simple react Application, it turns Google Sheets into a REST API and use it with this Application**
 
