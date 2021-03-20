@@ -75,6 +75,9 @@ yarn add classnames
 
 ## 🌻 That's it!
 
+<img src='react-google-sheets/public/app.png' alt='sheet' height='100px' width='150px' />
+
+
 <hr />
 
 ## Available Scripts
