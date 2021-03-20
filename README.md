@@ -20,7 +20,7 @@ npx create-react-app your-project-name
 
 <hr>
 
-## Dependencie Packages: (not required\*)
+### Dependencie Packages: (not required\*)
 
 - [reakit](https://reakit.io/)
 - [node-sass](https://www.npmjs.com/package/node-sass)
@@ -47,7 +47,7 @@ yarn add classnames
 
 <hr />
 
-## Change Google sheets into a REST API
+## Change Google Sheets into a REST API
 
 <ins>_I'm using german version 🧚‍♀️_</ins>
 
@@ -74,6 +74,8 @@ yarn add classnames
 - Fill out the request input key in google sheet input fields (like the first image above), run App and data will be populated into Google Sheets one by one.
 
 ## 🌻 That's it!
+
+<img src='react-google-sheets/public/app.png' alt='sheet' height='100px' width='150px' />
 
 <hr />
 
