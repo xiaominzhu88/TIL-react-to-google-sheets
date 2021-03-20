@@ -54,15 +54,15 @@ yarn add axios
 
 <img src='public/sheetbest.png' alt='sheet' height='80px' width='200px' />
 
-- Click on "connect you will be redirected to your connections page, Click on the details of your new connection and copy the CONNECTION URL, yeah, this is your endpoint URL
+- Click on "connect" and will be redirected to connections page, click on the details of new connection and copy the CONNECTION URL, yeah, this is the endpoint URL
 
-👆 If you want to use our APIs to modify the Sheet, like make "POST" or "PUT".. request in your App, you'll also need to provide edit access for the Sheet
+<ins>👆 If you want to use our APIs to modify the Sheet, like make "POST" or "PUT".. request in your App, you'll also need to provide edit access for the Sheet</ins>
 
 <img src='public/important.png' alt='sheet' height='100px' width='200px' />
 
-💥 **Important, otherwise you will receive a request error like "connection doesn't exist or is not shared correctly...", it took me 2 hours to figure it out** 💥
+💥 **Important, otherwise you will receive request error like "connection doesn't exist or is not shared correctly...", it took me 2 hours to figure that out** 💥
 
-- Fill out the request key value in google sheet input fields (like the first image above), run App and you'll see that the data is getting populated into your Google Sheets one by one.
+- Fill out the request input key in google sheet input fields (like the first image above), run App and data will be populated into Google Sheets one by one.
 
 ## 🌻 That's it!
 
