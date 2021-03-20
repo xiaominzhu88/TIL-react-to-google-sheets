@@ -53,21 +53,21 @@ yarn add classnames
 
 - Open a new google Spreadsheet by clicking File, create new Spreadsheet and give it a name
 
-<img src='public/sheet.png' alt='sheet' height='100px' width='200px' />
+<img src='react-google-sheets/public/sheet.png' alt='sheet' height='100px' width='200px' />
 
 - Click on the share button on the top right of screen, and edit the permission to public, copy the link
 
-<img src='public/sheetlink.png' alt='sheet' height='50px' width='210px' />
+<img src='react-google-sheets/public/sheetlink.png' alt='sheet' height='50px' width='210px' />
 
 - Go to [sheet.best](https://sheet.best/) and create a free account, create a new connection and paste copied URL from the Google Sheets in the connection URL box.
 
-<img src='public/sheetbest.png' alt='sheet' height='80px' width='200px' />
+<img src='react-google-sheets/public/sheetbest.png' alt='sheet' height='80px' width='200px' />
 
 - Click on "connect" and will be redirected to connections page, click on the details of new connection and copy the CONNECTION URL, yeah, this is the endpoint URL
 
 <ins>👆 If you want to use our APIs to modify the Sheet, like make "POST" or "PUT".. request in your App, you'll also need to provide edit access for the Sheet</ins>
 
-<img src='public/important.png' alt='sheet' height='100px' width='200px' />
+<img src='react-google-sheets/public/important.png' alt='sheet' height='100px' width='200px' />
 
 💥 **Important, otherwise you will receive request error like "connection doesn't exist or is not shared correctly...", it took me 2 hours to figure that out** 💥
 
