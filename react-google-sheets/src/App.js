@@ -7,7 +7,7 @@ function App() {
 		<>
 			<div className={styles.app}>
 				<header className={styles.header}>
-					<p>Connect googlesheets</p>
+					<p>React to Google Sheets</p>
 				</header>
 				<Separator orientation="horizontal" />
 				<FormField />

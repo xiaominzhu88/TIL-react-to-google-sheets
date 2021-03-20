@@ -7,6 +7,7 @@ form {
 label {
 	text-align: left;
 	margin: 10px 0 10px;
+	font-weight: bold;
 }
 .input {
 	display: block;
@@ -16,17 +17,21 @@ label {
 	font-size: 100%;
 	border: 1px solid rgba(0, 0, 0, 0.25);
 	color: #4d4d4d;
-	margin: 0 !important;
 	box-sizing: border-box;
-
+	margin-bottom: 15px;
 	&:focus {
 		border-color: rgba(0, 0, 0, 0.25);
 	}
 }
+.date {
+	color: hotpink;
+}
 .button {
+	width: 30%;
 	margin-top: 10px;
 	outline: 0;
 	color: #ffffff;
+	font-weight: bold;
 	background: #006dff;
 	padding: 0.375em 0.75em;
 	line-height: 1.5;
@@ -36,7 +41,7 @@ label {
 	font-size: 16px;
 
 	&:focus {
-		box-shadow: 0 0 0 0.2em rgba(0, 109, 255, 0.4);
+		box-shadow: 0 0 0 0.2em rgba(80, 146, 231, 0.4);
 	}
 
 	&[disabled],
